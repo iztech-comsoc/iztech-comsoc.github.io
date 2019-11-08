@@ -4,7 +4,7 @@ date: 2019-11-14T15:09:30+0000
 description: C Course 2019-2020 - Week 1
 ---
 
-## Instructor
+## Instructor(s)
 - Gökberk AKDENİZ
 - Ahmet Yasin BULUT
 
@@ -15,8 +15,7 @@ description: C Course 2019-2020 - Week 1
 - 'scanf'
 
 ## Examples and Exercises
-
-## Slide
+// TODO: Add links
 
 ## Further Reading
 ### printf format specifier
@@ -35,3 +34,4 @@ description: C Course 2019-2020 - Week 1
 - https://www.tutorialspoint.com/c_standard_library/c_function_scanf.htm
 
 ## Homework
+// TODO: Add links
