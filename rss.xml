@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IZTECH IEEE ComSoc Archives]]></title><description><![CDATA[Izmir Institute of Technology IEEE Communications Society Archives]]></description><link>https://iztech-comsoc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 07:31:56 GMT</lastBuildDate><item><title><![CDATA[C Course 2019-2020 - Week 1]]></title><description><![CDATA[Instructor Gökberk AKDENİZ Ahmet Yasin BULUT Topics 'printf' Variables Operators 'scanf' Examples and Exercises Slide Further Reading printf…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week1/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week1/</guid><pubDate>Thu, 14 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Instructor&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IZTECH IEEE ComSoc Archives]]></title><description><![CDATA[Izmir Institute of Technology IEEE Communications Society Archives]]></description><link>https://iztech-comsoc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 07:42:02 GMT</lastBuildDate><item><title><![CDATA[C Course 2019-2020]]></title><description><![CDATA[Instructors Gökberk AKDENİZ Ahmet Yasin BULUT Slide // TODO: Add links Schedule Week 1 (14.11.2019) 'printf' Variables Operators 'scanf…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020/</guid><pubDate>Thu, 14 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Instructors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Gökberk AKDENİZ&lt;/li&gt;
+&lt;li&gt;Ahmet Yasin BULUT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Slide&lt;/h2&gt;
+&lt;p&gt;// TODO: Add links&lt;/p&gt;
+&lt;h2&gt;Schedule&lt;/h2&gt;
+&lt;h3&gt;Week 1 (14.11.2019)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&apos;printf&apos;&lt;/li&gt;
+&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Operators&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&apos;scanf&apos;&lt;/p&gt;
+&lt;h3&gt;Week 2 (21.11.2019)&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Flow Control&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Loops&lt;/p&gt;
+&lt;h3&gt;Week 3 (28.11.2019)&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arrays&lt;/p&gt;
+&lt;h3&gt;Week 4 (05.12.2019)&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Strings&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;File I/O&lt;/p&gt;
+&lt;h3&gt;Week 5 (12.12.2019)&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;Exercises&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[C Course 2019-2020 - Week 1]]></title><description><![CDATA[Instructor(s) Gökberk AKDENİZ Ahmet Yasin BULUT Topics 'printf' Variables Operators 'scanf' Examples and Exercises // TODO: Add links…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week1/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week1/</guid><pubDate>Thu, 14 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Instructor(s)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Gökberk AKDENİZ&lt;/li&gt;
 &lt;li&gt;Ahmet Yasin BULUT&lt;/li&gt;
@@ -11,7 +44,7 @@
 &lt;li&gt;&apos;scanf&apos;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Examples and Exercises&lt;/h2&gt;
-&lt;h2&gt;Slide&lt;/h2&gt;
+&lt;p&gt;// TODO: Add links&lt;/p&gt;
 &lt;h2&gt;Further Reading&lt;/h2&gt;
 &lt;h3&gt;printf format specifier&lt;/h3&gt;
 &lt;ul&gt;
@@ -32,4 +65,5 @@
 &lt;li&gt;&lt;a href=&quot;http://www.cplusplus.com/reference/cstdio/scanf/&quot;&gt;http://www.cplusplus.com/reference/cstdio/scanf/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.tutorialspoint.com/c_standard_library/c_function_scanf.htm&quot;&gt;https://www.tutorialspoint.com/c_standard_library/c_function_scanf.htm&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Homework&lt;/h2&gt;</content:encoded></item></channel></rss>
+&lt;h2&gt;Homework&lt;/h2&gt;
+&lt;p&gt;// TODO: Add links&lt;/p&gt;</content:encoded></item></channel></rss>
