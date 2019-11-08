@@ -4,6 +4,10 @@ date: 2019-11-14T15:09:30+0000
 description: C Course 2019-2020 - Week 1
 ---
 
+## Instructor
+- Gökberk AKDENİZ
+- Ahmet Yasin BULUT
+
 ## Topics
 - 'printf'
 - Variables
