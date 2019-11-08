@@ -1,6 +1,6 @@
 ---
 title: C Course 2019-2020
-date: 2019-11-14T15:09:30+0000
+date: 2019-11-14T15:09:00+0000
 description: C Course 2019-2020 Information
 ---
 
