@@ -4,18 +4,14 @@ date: 2019-11-14T15:09:30+0000
 description: C Course 2019-2020 - Week 1
 ---
 
-## Instructor(s)
-- Gökberk AKDENİZ
-- Ahmet Yasin BULUT
-
 ## Topics
 - 'printf'
 - Variables
 - Operators
 - 'scanf'
 
-## Examples and Exercises
-// TODO: Add links
+## Resources
+https://github.com/iztech-comsoc/c-course-2019-2020/archive/w1/wos.zip
 
 ## Further Reading
 ### printf format specifier
@@ -32,6 +28,3 @@ description: C Course 2019-2020 - Week 1
 ### scanf format specifier
 - http://www.cplusplus.com/reference/cstdio/scanf/
 - https://www.tutorialspoint.com/c_standard_library/c_function_scanf.htm
-
-## Homework
-// TODO: Add links

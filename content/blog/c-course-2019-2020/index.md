@@ -9,7 +9,7 @@ description: C Course 2019-2020 Information
 - Ahmet Yasin BULUT
 
 ## Slide
-// TODO: Add links
+- https://github.com/iztech-comsoc/c-course-2019-2020/raw/master/Sunum.pptx
 
 ## Schedule
 ### Week 1 (14.11.2019)
@@ -28,3 +28,4 @@ description: C Course 2019-2020 Information
 - File I/O
 ### Week 5 (12.12.2019)
 - Exercises
+
