@@ -11,7 +11,13 @@ description: C Course 2019-2020 - Week 1
 - 'scanf'
 
 ## Resources
-https://github.com/iztech-comsoc/c-course-2019-2020/archive/w1/wos.zip
+https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W1/Week.1.-.Resources.zip
+
+## Homework
+https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W1/Week.1.-.Homework.zip
+
+## Solutions
+https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W1/Week.1.-.Solutions.zip
 
 ## Further Reading
 ### printf format specifier
