@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IZTECH IEEE ComSoc Archives]]></title><description><![CDATA[Izmir Institute of Technology IEEE Communications Society Archives]]></description><link>https://iztech-comsoc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 21 Nov 2019 07:18:53 GMT</lastBuildDate><item><title><![CDATA[C Course 2019-2020 - Week 2]]></title><description><![CDATA[Topics Flow Control Loops Resources https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Resources.zip Homework…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week2/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week2/</guid><pubDate>Thu, 21 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Topics&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IZTECH IEEE ComSoc Archives]]></title><description><![CDATA[Izmir Institute of Technology IEEE Communications Society Archives]]></description><link>https://iztech-comsoc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 21 Nov 2019 19:58:49 GMT</lastBuildDate><item><title><![CDATA[C Course 2019-2020 - Week 2]]></title><description><![CDATA[Topics Flow Control Loops Resources https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Resources.zip Homework…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week2/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week2/</guid><pubDate>Thu, 21 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Topics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Flow Control&lt;/li&gt;
 &lt;li&gt;Loops&lt;/li&gt;
@@ -6,9 +6,42 @@
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Resources.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Resources.zip&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Homework&lt;/h2&gt;
-&lt;p&gt;Coming soon...&lt;/p&gt;
+&lt;h3&gt;Multiplication Table&lt;/h3&gt;
+&lt;p&gt;Write a program that prints multiplication table.&lt;/p&gt;
+&lt;p&gt;Expected output:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;1	2	3	4	5	6	7	8	9	
+2	4	6	8	10	12	14	16	18	
+3	6	9	12	15	18	21	24	27	
+4	8	12	16	20	24	28	32	36	
+5	10	15	20	25	30	35	40	45	
+6	12	18	24	30	36	42	48	54	
+7	14	21	28	35	42	49	56	63	
+8	16	24	32	40	48	56	64	72	
+9	18	27	36	45	54	63	72	81&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Power&lt;/h3&gt;
+&lt;p&gt;Calculating power is one of the base operations in mathematics.&lt;/p&gt;
+&lt;p&gt;We can calculate a power operation with a single loop, with multiply the number exponent times.&lt;/p&gt;
+&lt;p&gt;For example 2^4 = (2 * 2 * 2 *2 ) is just multiplying 2, 4 times.&lt;/p&gt;
+&lt;p&gt;Make a program that calculates the given power of given base number.&lt;/p&gt;
+&lt;p&gt;Example input/output:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Enter a base number: 5
+Enter an exponent: 4
+5 ^ 4 = 625&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Palindrome Numbers&lt;/h3&gt;
+&lt;p&gt;Lets make a good example with working a number in a different way.&lt;/p&gt;
+&lt;p&gt;An palindrome number is a number that the reverse of that number is equal to the original number.&lt;/p&gt;
+&lt;p&gt;So we need to reverse a number and check if it is equal to its reverse.&lt;/p&gt;
+&lt;p&gt;We can make it with a loop, and every step of loop, we can take the last digit of original number and add it to reversed numbers last digit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hint:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;We can use &amp;quot;remainder = n % 10&amp;quot; expression for take the last digit (Not hint for how to add it to reversed number)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Example input/output:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Enter an integer: 12321 
+12321 is a palindrome.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Solutions&lt;/h2&gt;
-&lt;p&gt;Coming soon...&lt;/p&gt;</content:encoded></item><item><title><![CDATA[C Course 2019-2020 - Terimler ve Merhaba Dünya (Turkish)]]></title><description><![CDATA["Merhaba, dünya" bilgisayar programı (Brian Kernighan) "Merhaba, dünya" bilgisayar programı (Brian Kernighan) Terimler  belli bir problemi…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week1-notes/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week1-notes/</guid><pubDate>Wed, 20 Nov 2019 15:21:38 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hello_World_Brian_Kernighan_1978.jpg/440px-Hello_World_Brian_Kernighan_1978.jpg&quot; alt=&quot;&amp;#x22;Merhaba, dünya&amp;#x22; bilgisayar programı (Brian Kernighan)&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exercises:  &lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Exercises.with.Solution.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Exercises.with.Solution.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework: &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[C Course 2019-2020 - Terimler ve Merhaba Dünya (Turkish)]]></title><description><![CDATA["Merhaba, dünya" bilgisayar programı (Brian Kernighan) "Merhaba, dünya" bilgisayar programı (Brian Kernighan) Terimler  belli bir problemi…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week1-notes/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week1-notes/</guid><pubDate>Wed, 20 Nov 2019 15:21:38 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hello_World_Brian_Kernighan_1978.jpg/440px-Hello_World_Brian_Kernighan_1978.jpg&quot; alt=&quot;&amp;#x22;Merhaba, dünya&amp;#x22; bilgisayar programı (Brian Kernighan)&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&quot;Merhaba, dünya&quot; bilgisayar programı (&lt;a href=&quot;https://www.wikiwand.com/en/Brian_Kernighan&quot;&gt;Brian Kernighan&lt;/a&gt;)&lt;/p&gt;
 &lt;h2&gt;Terimler&lt;/h2&gt;
 &lt;ul&gt;
