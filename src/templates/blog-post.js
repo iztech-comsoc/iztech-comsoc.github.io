@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import "katex/dist/katex.min.css"
 
 class BlogPostTemplate extends React.Component {
   render() {
