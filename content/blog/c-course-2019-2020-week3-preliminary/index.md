@@ -30,7 +30,7 @@ Fonkisyonumuz __int__ türündeki x değişkeni ile __int__ türünde y değişi
 
 Başka bir örnek olarak aşağıdaki fonksiyonu C'de yazalım. Geçersiz değer girildiğinde de sonuç olarak __-1__ döndürelim.
 
-$g(x,y) = x / y$, &nbsp;&nbsp;&nbsp;&nbsp; $g: \N \times \N \rightarrow \R^+$
+$g(x,y) = x / y$, &nbsp;&nbsp;&nbsp;&nbsp; $g: \N \times \N^+ \rightarrow \R^+$
 
 ```C
     double div(int x, int y) {
