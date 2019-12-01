@@ -61,4 +61,4 @@ Example input/output:
 
 ## Solutions
 - Exercises:  https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Exercises.with.Solution.zip
-- Homework: 
+- Homework: https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.Homework.Solutions.zip
