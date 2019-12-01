@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IZTECH IEEE ComSoc Archives]]></title><description><![CDATA[Izmir Institute of Technology IEEE Communications Society Archives]]></description><link>https://iztech-comsoc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Nov 2019 14:45:51 GMT</lastBuildDate><item><title><![CDATA[C Course 2019-2020 - Fonksiyonlar ve Arrayler (Ön Bilgi) (Turkish)]]></title><description><![CDATA[Fonksiyonlar Fonksiyonlar, düzenli ve tekrar kullanılabilir belli bir işlemi gerçekleştiren kod bloklarıdır.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IZTECH IEEE ComSoc Archives]]></title><description><![CDATA[Izmir Institute of Technology IEEE Communications Society Archives]]></description><link>https://iztech-comsoc.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 01 Dec 2019 08:11:41 GMT</lastBuildDate><item><title><![CDATA[C Course 2019-2020 - Week 3]]></title><description><![CDATA[Topics Functions Arrays About Homework To open first and second question, open project file named "HW3.dev" with DevCpp.  Resources Examples…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week3/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week3/</guid><pubDate>Sat, 30 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Topics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Functions&lt;/li&gt;
+&lt;li&gt;Arrays&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;About Homework&lt;/h2&gt;
+&lt;p&gt;To open first and second question, open project file named &quot;HW3.dev&quot; with DevCpp. &lt;/p&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Examples:  &lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Examples.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Examples.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Exercises:  &lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Exercises.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Exercises.zip&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Homework: &lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Homework.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Homework.zip&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[C Course 2019-2020 - Fonksiyonlar ve Arrayler (Ön Bilgi) (Turkish)]]></title><description><![CDATA[Fonksiyonlar Fonksiyonlar, düzenli ve tekrar kullanılabilir belli bir işlemi gerçekleştiren kod bloklarıdır.
 Bunları matematikteki…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week3-preliminary/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week3-preliminary/</guid><pubDate>Tue, 26 Nov 2019 15:09:30 GMT</pubDate><content:encoded>&lt;h2&gt;Fonksiyonlar&lt;/h2&gt;
 &lt;p&gt;Fonksiyonlar, düzenli ve tekrar kullanılabilir belli bir işlemi gerçekleştiren kod bloklarıdır.
 Bunları matematikteki fonksiyonlara benzetmemiz yanlış olmaz. Temelinde aynı mantık yatmaktadır.&lt;/p&gt;
@@ -74,7 +86,7 @@ Enter an exponent: 4
 &lt;h2&gt;Solutions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Exercises:  &lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Exercises.with.Solution.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.-.Exercises.with.Solution.zip&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Homework: &lt;/li&gt;
+&lt;li&gt;Homework: &lt;a href=&quot;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.Homework.Solutions.zip&quot;&gt;https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W2/Week.2.Homework.Solutions.zip&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[C Course 2019-2020 - Terimler ve Merhaba Dünya (Turkish)]]></title><description><![CDATA["Merhaba, dünya" bilgisayar programı (Brian Kernighan) "Merhaba, dünya" bilgisayar programı (Brian Kernighan) Terimler  belli bir problemi…]]></description><link>https://iztech-comsoc.github.io/c-course-2019-2020-week1-notes/</link><guid isPermaLink="false">https://iztech-comsoc.github.io/c-course-2019-2020-week1-notes/</guid><pubDate>Wed, 20 Nov 2019 15:21:38 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hello_World_Brian_Kernighan_1978.jpg/440px-Hello_World_Brian_Kernighan_1978.jpg&quot; alt=&quot;&amp;#x22;Merhaba, dünya&amp;#x22; bilgisayar programı (Brian Kernighan)&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&quot;Merhaba, dünya&quot; bilgisayar programı (&lt;a href=&quot;https://www.wikiwand.com/en/Brian_Kernighan&quot;&gt;Brian Kernighan&lt;/a&gt;)&lt;/p&gt;
 &lt;h2&gt;Terimler&lt;/h2&gt;
