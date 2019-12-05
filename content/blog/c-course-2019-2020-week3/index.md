@@ -15,4 +15,4 @@ To open first and second question, open project file named "HW3.dev" with DevCpp
 - Examples:  https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Examples.zip
 - Exercises:  https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Exercises.zip
 - Homework: https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Homework.zip
-
+- Homework Solution: https://github.com/iztech-comsoc/c-course-2019-2020/releases/download/W3/Week.3.-.Homework.Solution.zip
